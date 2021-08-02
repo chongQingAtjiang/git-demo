@@ -6,7 +6,7 @@ hello atgguigu!hello git
 hello atgguigu!hello git
 hello atgguigu!hello git
 hello atgguigu!hello git
-hello atgguigu!hello git
+hello atgguigu!hello git:GitHub test
 hello atgguigu!hello git
 hello atgguigu!hello git:master test
 hello atgguigu!hello git:hot-fix test
